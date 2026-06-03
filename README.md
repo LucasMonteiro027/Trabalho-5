@@ -1,2 +1,2 @@
-# Curr-culo-Trabalho
+# Curriculo-Trabalho
 Currículo Trabalho - Reinaldo
